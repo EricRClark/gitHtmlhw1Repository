@@ -1,0 +1,18 @@
+img, octodex {
+  display: inline-block;
+  width: 100%;
+}
+li {
+  display: inline-block;
+  width:32%;
+}
+.image-footer, ul {
+  display: inline-block;
+  width: 32%;
+}
+.image-caption  {
+  display: inline;
+}
+li .authors {
+  display: inline-block;
+}
